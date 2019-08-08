@@ -1,6 +1,6 @@
 # wx.config
 
-官方文档 https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1421141115
+官方文档 https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1421141115 -> :1.1.3 步骤三：通过 config 接口注入权限验证配置
 
 调用
 
